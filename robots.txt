@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://urahjeiyae.masterlidov.ru/sitemap.xml
